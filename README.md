@@ -1,3 +1,2 @@
-# Trex Runner Game
-https://sameera-azula.github.io/Games/
-
+# p5.play-boilerplate
+Boiler plate for p5.play
