@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+### Github Pages are hosted here, find the link below
+https://sameera-azula.github.io/Games/
